@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.9)  9 SEP 2025 10:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.9)  12 SEP 2025 23:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/sare9/Downloads/Documento.tex
-(c:/Users/sare9/Downloads/Documento.tex
+**"c:/Users/sare9/OneDrive/Escritorio/carpetas git hub/Trabajos/Trabajos/laboratorio 1 fisica/Documento.tex"
+(c:/Users/sare9/OneDrive/Escritorio/carpetas git hub/Trabajos/Trabajos/laboratorio 1 fisica/Documento.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\sare9\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -469,12 +469,12 @@ Package rerunfilecheck Info: File `Documento.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  13455 strings out of 474486
- 214593 string characters out of 5743756
+ 215193 string characters out of 5743756
  1934542 words of memory out of 5000000
  35547 multiletter control sequences out of 15000+600000
  573178 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,1018b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,1086b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\sare9\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\sare9\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\sare9\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\sare9\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\sare9\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\sare9\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcti1200.pk> <C:\Users\sare9\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\sare9\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\sare9\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\sare9\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\sare9\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk><C:/Users/sare9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/sare9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/sare9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sare9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/sare9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 Output written on Documento.pdf (5 pages, 12163153 bytes).
 PDF statistics:
